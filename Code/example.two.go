@@ -3,24 +3,18 @@ package main
 import "fmt"
 
 func main(){
-  age := [added you age here]
+  coffee := [add cups]
 
-  if age < 13 {
-    fmt.Println("Wow you are young!")
+  if coffee == 0 {
+    fmt.Println("You need coffee now!")
   }
-  if age > 12 && age < 20 {
-    fmt.Println("You are a teenager!")
+  if coffee > 0 && coffee < 2 {
+    fmt.Println("Just getting started!")
   }
-  if age > 19 && age < 30 {
-    fmt.Println("You are in your twenties!")
+  if coffee > 1 && coffee < 3 {
+    fmt.Println("Like your style!")
   }
-  if age > 29 && age < 40 {
-    fmt.Println("You are in your thirties!")
-  }
-  if age > 39 && age < 50 {
-    fmt.Println("You are getting up there!")
-  }
-  if age > 49 {
-    fmt.Println("Do you need a nap?")
+  if coffee > 2 && coffee < 4 {
+    fmt.Println("You can hear your own blood!")
   }
 }
