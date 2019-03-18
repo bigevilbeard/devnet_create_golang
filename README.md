@@ -12,8 +12,10 @@
 - Golang vs [insert code here]
 - Gophercising, exercises for building code
 - Hello world!
-- If Conditions
-- For Loops
+- Control structures
+- Data structures
+- Functions
+- Interfaces
+- Concurrency
 - Switch Statements
-- Making an API call for Cisco SDWAN
-- SDWAN API Demo
+- SD-WAN API Golang example 
